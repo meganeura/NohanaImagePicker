@@ -72,6 +72,7 @@
 /* Begin PBXFileReference section */
 		3569CAA61EC1918E000C41C0 /* NohanaImagePicker.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = NohanaImagePicker.xcassets; sourceTree = "<group>"; };
 		3590F1F51EC1A79400F32E06 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/NohanaImagePicker.strings; sourceTree = "<group>"; };
+		583AB6CB21554D500003FE75 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/NohanaImagePicker.strings; sourceTree = "<group>"; };
 		F202573B1C7418920069B33A /* PickedAssetList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickedAssetList.swift; sourceTree = "<group>"; };
 		F208E5511CD7370B00FFC9F6 /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F208E5531CD7370B00FFC9F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -335,6 +336,7 @@
 				Base,
 				ja,
 				ru,
+				de,
 			);
 			mainGroup = F2C08D6A1C68651900B00181;
 			productRefGroup = F2C08D751C68651900B00181 /* Products */;
@@ -445,6 +447,7 @@
 				F27029CC1C71C43A001647AB /* en */,
 				F27029CF1C71C4FE001647AB /* ja */,
 				3590F1F51EC1A79400F32E06 /* ru */,
+				583AB6CB21554D500003FE75 /* de */,
 			);
 			name = NohanaImagePicker.strings;
 			sourceTree = "<group>";
